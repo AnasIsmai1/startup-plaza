@@ -12,7 +12,7 @@ import { Skeleton } from "@/components/ui/skeleton";
 import View from "@/components/View";
 
 
-export const experimental_ppr: Boolean = true;
+export const experimental_ppr = true;
 
 export const metadata: Metadata = {
     title: "Startup | YC Directory",
